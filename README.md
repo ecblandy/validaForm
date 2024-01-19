@@ -14,6 +14,7 @@
 
 ### Tecnologias usadas:
 
--**HTML**
--**CSS**
--**JavaScript**
+- **HTML**
+- **CSS**
+- **JavaScript**
+[![Projeto imagem](./img/34529ae9-9b13-4bee-bfad-779decae45bd.jpg)](https://valida-form-ecru.vercel.app/)
